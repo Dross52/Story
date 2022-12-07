@@ -1,1 +1,14 @@
 It was the best of times	
+
+Working Directory -> Where the git file is initialized, and where git will track changes between local repository
+
+Git add
+Staging Area -> where we can choose what files to add to local repository
+
+Git commit with commit message
+Local Repository 
+
+Git diff will show the differences that have occurred	
+
+
+Everything changed when the Venusian nation attacked!
